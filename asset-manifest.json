@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React--Construction-Project/static/css/main.65ef9dcd.css",
-    "main.js": "/React--Construction-Project/static/js/main.452185bf.js",
+    "main.js": "/React--Construction-Project/static/js/main.fb506ae6.js",
     "static/media/footer-bg.jpg": "/React--Construction-Project/static/media/footer-bg.5ce9b590a414e3ce9534.jpg",
     "static/media/construction-2.jpg": "/React--Construction-Project/static/media/construction-2.396b6f614b42a374e855.jpg",
     "static/media/hero-carousel-1.jpg": "/React--Construction-Project/static/media/hero-carousel-1.9e5032971f7ec5e4ac56.jpg",
@@ -34,10 +34,10 @@
     "static/media/alt-services.jpg": "/React--Construction-Project/static/media/alt-services.30bf1f905b61627bef33.jpg",
     "index.html": "/React--Construction-Project/index.html",
     "main.65ef9dcd.css.map": "/React--Construction-Project/static/css/main.65ef9dcd.css.map",
-    "main.452185bf.js.map": "/React--Construction-Project/static/js/main.452185bf.js.map"
+    "main.fb506ae6.js.map": "/React--Construction-Project/static/js/main.fb506ae6.js.map"
   },
   "entrypoints": [
     "static/css/main.65ef9dcd.css",
-    "static/js/main.452185bf.js"
+    "static/js/main.fb506ae6.js"
   ]
 }
