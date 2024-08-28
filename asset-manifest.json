@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/React--Construction-Project/static/css/main.65ef9dcd.css",
+    "main.js": "/React--Construction-Project/static/js/main.452185bf.js",
+    "static/media/footer-bg.jpg": "/React--Construction-Project/static/media/footer-bg.5ce9b590a414e3ce9534.jpg",
+    "static/media/construction-2.jpg": "/React--Construction-Project/static/media/construction-2.396b6f614b42a374e855.jpg",
+    "static/media/hero-carousel-1.jpg": "/React--Construction-Project/static/media/hero-carousel-1.9e5032971f7ec5e4ac56.jpg",
+    "static/media/hero-carousel-2.jpg": "/React--Construction-Project/static/media/hero-carousel-2.8b805addaa594f21a8e8.jpg",
+    "static/media/constructions-4.jpg": "/React--Construction-Project/static/media/constructions-4.8f1c6a722cd0d9f80989.jpg",
+    "static/media/page-title-bg.jpg": "/React--Construction-Project/static/media/page-title-bg.ad46202ea0c46bf3a99e.jpg",
+    "static/media/hero-carousel-5.jpg": "/React--Construction-Project/static/media/hero-carousel-5.62fe6c0bca22bfb6a73e.jpg",
+    "static/media/about.jpg": "/React--Construction-Project/static/media/about.27813d9d4f1b2aabe737.jpg",
+    "static/media/hero-carousel-4.jpg": "/React--Construction-Project/static/media/hero-carousel-4.2c6c9b5e2e3bb55a137e.jpg",
+    "static/media/constructions-3.jpg": "/React--Construction-Project/static/media/constructions-3.274e362989bcf5dd479c.jpg",
+    "static/media/constructions-1.jpg": "/React--Construction-Project/static/media/constructions-1.4026b6531745838ab80b.jpg",
+    "static/media/Poppins-Regular.ttf": "/React--Construction-Project/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/construction-3.jpg": "/React--Construction-Project/static/media/construction-3.af53a2e0e6209fccab1b.jpg",
+    "static/media/remodeling-3.jpg": "/React--Construction-Project/static/media/remodeling-3.fecbb77f3e1a09def5d1.jpg",
+    "static/media/construction-1.jpg": "/React--Construction-Project/static/media/construction-1.1874ff49446ee53298f2.jpg",
+    "static/media/constructions-2.jpg": "/React--Construction-Project/static/media/constructions-2.c067133d4d9ef8489573.jpg",
+    "static/media/hero-carousel-3.jpg": "/React--Construction-Project/static/media/hero-carousel-3.359369d77930e809a4b3.jpg",
+    "static/media/repairs-1.jpg": "/React--Construction-Project/static/media/repairs-1.3e514887fab76510506f.jpg",
+    "static/media/design-2.jpg": "/React--Construction-Project/static/media/design-2.25b62284c18f3ebacc6e.jpg",
+    "static/media/features-2.jpg": "/React--Construction-Project/static/media/features-2.163b5830aa6ca6ab8fb2.jpg",
+    "static/media/remodeling-2.jpg": "/React--Construction-Project/static/media/remodeling-2.9202c1f88d32ab8f16ff.jpg",
+    "static/media/repairs-2.jpg": "/React--Construction-Project/static/media/repairs-2.8a59e049e813b9dca5be.jpg",
+    "static/media/repairs-3.jpg": "/React--Construction-Project/static/media/repairs-3.065b7b51d919a2b418ab.jpg",
+    "static/media/features-3.jpg": "/React--Construction-Project/static/media/features-3.84344ffebac4b4c4e3a6.jpg",
+    "static/media/remodeling-1.jpg": "/React--Construction-Project/static/media/remodeling-1.f025b66d4e97d4bc897f.jpg",
+    "static/media/design-1.jpg": "/React--Construction-Project/static/media/design-1.832299276a266b27c1e6.jpg",
+    "static/media/features-1.jpg": "/React--Construction-Project/static/media/features-1.3680fde1691242e90f65.jpg",
+    "static/media/design-3.jpg": "/React--Construction-Project/static/media/design-3.eb0ee02c58f0c0fb6775.jpg",
+    "static/media/features-4.jpg": "/React--Construction-Project/static/media/features-4.70dd9c5e1f82f61b2ebe.jpg",
+    "static/media/alt-services.jpg": "/React--Construction-Project/static/media/alt-services.30bf1f905b61627bef33.jpg",
+    "index.html": "/React--Construction-Project/index.html",
+    "main.65ef9dcd.css.map": "/React--Construction-Project/static/css/main.65ef9dcd.css.map",
+    "main.452185bf.js.map": "/React--Construction-Project/static/js/main.452185bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65ef9dcd.css",
+    "static/js/main.452185bf.js"
+  ]
+}
