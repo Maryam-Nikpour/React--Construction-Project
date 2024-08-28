@@ -1,0 +1,51 @@
+.stat {
+    text-align: center;
+    padding-bottom: 60px;
+    margin-top: 180px!important;
+  
+  }
+  
+  .stat h2 {
+    font-size: 32px;
+    font-weight: 700;
+  }
+  
+  .stat h2:before,
+  .stat h2:after {
+    content: "";
+    width: 50px;
+    height: 2px;
+    background: #feb900;
+    display: inline-block;
+  }
+  
+  .stat h2:before {
+    margin: 0 15px 10px 0;
+  }
+  
+  .stat h2:after {
+    margin: 0 0 10px 15px;
+  }
+.stats-item {
+    box-shadow: 0px 0 30px color-mix(in srgb, #364d59, transparent 92%);
+    padding: 30px;
+    
+ 
+  }
+ .stat-icon{
+    color: #feb900;
+    font-size: 42px;
+    margin-right: 20px;
+ }
+ .purecounter{
+    font-size: 36px;
+    font-weight: 600;
+ }
+ .stats-item p{
+  margin: 0;
+  font-size: 16px;
+ 
+ }
+ .stat-row{
+ 
+ }

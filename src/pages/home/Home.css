@@ -1,0 +1,128 @@
+/*--------------------------------------------------------------
+# Global Section Titles
+--------------------------------------------------------------*/
+.section-title{
+  text-align: center;
+  padding-bottom: 60px;
+  position: relative;
+}
+
+.section-title{
+  font-size: 32px;
+  font-weight: 700;
+  position: relative;
+}
+
+.section-title:before,
+.section-title:after {
+  content: "";
+  width: 50px;
+  height: 2px;
+  background:#feb900;
+  display: inline-block;
+}
+
+.section-title:before {
+  margin: 0 15px 10px 0;
+}
+
+.section-title:after {
+  margin: 0 0 10px 15px;
+}
+
+.section-text{
+  margin-bottom: 0;
+  text-align: center;
+  padding-bottom: 60px;
+  position: relative;
+}
+
+/*--------------------------------------------------------------
+# Constructions Section
+--------------------------------------------------------------*/
+.my-container {
+    margin-top: 8rem;
+    
+  }
+
+  
+  .my-container .my-col h1 {
+    margin-bottom: 35px;
+  }
+  
+
+
+  .construction{
+    text-align: center;
+  }
+
+/*--------------------------------------------------------------
+# Services Section
+--------------------------------------------------------------*/
+  .service-section{
+    background-color: color-mix(in srgb, #364d59, transparent 95%);
+
+
+  }
+  
+  /*--------------------------------------------------------------
+# Alt Services Section
+--------------------------------------------------------------*/
+.features-image {
+  min-height: 400px;
+}
+
+.alt-services-title h3{
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+}
+.alt-services-title h3::after {
+  content: "";
+  background:#feb900;
+  position: absolute;
+  display: block;
+  width: 50px;
+  height: 3px;
+  left: 0;
+  bottom: 0;
+}
+
+  /*--------------------------------------------------------------
+# TabContent Section
+--------------------------------------------------------------*/
+.tab-container img{
+  height: 400px;
+}
+.points-list li{
+  list-style: none;
+
+
+}
+.points-list li {
+  list-style: none;
+
+}
+.tab-container h3{
+  color:#52565e;
+  font-weight: 700;
+  font-size: 32px;
+  position: relative;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+.tab-container h3:after{
+  content: "";
+  position: absolute;
+  display: block;
+  width: 60px;
+  height: 3px;
+  background:#feb900;
+  left: 0;
+  bottom: 0;
+}
+.nav-tabs .nav-link {
+  color: #52565e !important; 
+}

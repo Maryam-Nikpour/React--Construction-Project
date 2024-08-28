@@ -1,0 +1,43 @@
+.altservices-icon{
+    margin-top: 50px;
+    color:#feb900;
+  background-color:#ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 25px;
+  margin-top: 5px;
+  font-size: 28px;
+  width: 56px;
+  height: 56px;
+  border-radius: 4px;
+  box-shadow: 0px 2px 30px color-mix(in srgb, #364d59, transparent 90%);
+ 
+  transition: 0.3s;
+}
+.icon-box{
+    display: flex;
+    flex-direction: row;
+}
+.icon-box:hover .altservices-icon{
+    background-color:#feb900 ;
+    color: #ffffff;
+}
+.icon-box:hover h4 a{
+    color: #feb900;
+}
+.icon-box h4 {
+    font-weight: 700;
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  .icon-box h4 a {
+    color:#52565e;;
+    transition: 0.3s;
+    text-decoration: none;
+  }
+  .icon-box p {
+    line-height: 24px;
+    font-size: 14px;
+    margin-bottom: 0;
+  }

@@ -1,0 +1,14 @@
+.service{
+    min-height: 400px;
+    background-image: url(../../assets/images/page-title-bg.jpg);
+    background-size:cover;
+    background-position: center;
+}
+.services::before{
+    content: "";
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+   height: 400px;
+}

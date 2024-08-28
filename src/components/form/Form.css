@@ -1,0 +1,32 @@
+.email-form {
+    background:color-mix(in srgb,#364d59, transparent 97%);
+    padding: 30px;
+    height: 100%;
+    
+  }
+  .email-form h3 {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  .email-form p {
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  .email-form button{
+    color: #ffffff;
+    background:#feb900;
+    border: 0;
+    padding: 10px 30px;
+    transition: 0.4s;
+    border-radius: 4px;
+
+  }
+  
+  .email-form button:hover {
+    background: color-mix(in srgb, #feb900, transparent 20%);
+    
+  }
+  

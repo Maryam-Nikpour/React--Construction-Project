@@ -1,0 +1,18 @@
+.card-item{
+  border: 1px solid color-mix(in srgb, #364d59, transparent 85%);
+  border-radius:0 !important;
+
+
+}
+  
+  .card-img {
+  
+    object-fit: cover; 
+    min-height:300px;
+    border-radius:0 !important;
+  }
+  .card-text{
+ color: color-mix(in srgb, #364d59, transparent 40%);
+ text-align: justify;
+  }
+  

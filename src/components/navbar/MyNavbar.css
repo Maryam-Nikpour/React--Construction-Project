@@ -1,0 +1,29 @@
+
+  .navbar-overlay {
+    position: absolute!important;
+    top: 0;
+    width: 100%;
+    z-index: 10; 
+    
+  }
+  .navbar-brand{
+    color: #ffff!important;
+    font-weight: 600;
+  }
+ 
+  
+.nav-link {
+    margin-right: 20px;
+    color:rgba(255, 255, 255, 0.55)!important;
+   
+
+}
+
+.nav-link:hover {
+    border-bottom: 2px solid #feb900;
+    
+}
+
+.nav-link.active {
+    border-bottom: 2px solid #feb900;
+}

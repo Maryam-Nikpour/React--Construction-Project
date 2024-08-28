@@ -1,0 +1,42 @@
+
+.service-item{
+    padding: 15px;
+    box-shadow: 0px 0 30px color-mix(in srgb, #364d59, transparent 90%);
+    background-color: #ffffff;
+}
+.card-icon {
+    margin-bottom: 40px;
+    font-size: 3rem;   
+}
+.readmore{
+        margin-top: 15px;
+        display: inline-block;
+        color: color-mix(in srgb, #364d59, transparent 30%);
+}
+.service-item:hover .readmore{
+    color: #feb900;
+}
+.service-item .card-subtitle{
+    color: color-mix(in srgb, var(--heading-color), transparent 20%);
+    font-weight: 700;
+    margin: 0 0 20px 0;
+    padding-bottom: 8px;
+    font-size: 22px;
+    display: inline-block;
+    border-bottom: 4px solid color-mix(in srgb,  #52565e , transparent 90%);
+    transition: 0.3s;
+   }
+ 
+   .service-item:hover .card-subtitle{
+    border-color:  #feb900;
+    color: #52565e;
+   }
+   .card-icon{
+    color: #52565e;
+   }
+.service-item:hover .card-icon{
+    color: #feb900;
+}
+.service-item:hover .card-icon:before{
+    background-color: #feb900;
+}
