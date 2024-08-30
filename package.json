@@ -2,7 +2,8 @@
   "name": "upconstruction",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://Maryam-Nikpour.github.io/React--Construction-project",
+  "homepage": "https://Maryam-Nikpour.github.io/React--Construction-Project/",
+
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

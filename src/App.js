@@ -1,4 +1,4 @@
-import { HashRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import Home from './pages/home/Home'
 import About from './pages/about/About'
 import Projects from './pages/projects/Project'
@@ -11,7 +11,7 @@ import 'aos/dist/aos.css';
 
 
 
-function App() {
+function App() {        
   useEffect(() => {
     AOS.init({
       duration: 1000,
@@ -20,7 +20,7 @@ function App() {
     });
   }, []);
   return (
-    <Router>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
@@ -29,7 +29,7 @@ function App() {
         <Route path="/blog" element={<Blog />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
-    </Router>
+    </HashRouter>
   );
 }
 export default App
