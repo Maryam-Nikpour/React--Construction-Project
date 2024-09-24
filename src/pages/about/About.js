@@ -19,7 +19,7 @@ function About() {
       
     <Header title={title} breadcrumbs={breadcrumbs} />
     
-    <Container >
+    <Container >           
       <Row className="about">
         <h2 className="inner-title">Consequatur eius et magnam</h2>
      

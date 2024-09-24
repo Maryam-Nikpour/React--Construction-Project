@@ -1,18 +1,13 @@
-.carousel-wrapper {
-  position: relative;
+
+.carousel-caption{
+  z-index: 3;
+  position: absolute;
+
+  top: 39%;
+
+
 }
 
-.carousel-caption {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(53%, -50%);
-  text-align: center;
-  z-index: 3;
-  color: white; 
-  padding: 140px 0 60px 0;
-  width: 500px;
-}
 .carousel-caption h2{
   font-size: 3rem;
 
@@ -31,3 +26,4 @@ img {
     inset: 0;
     z-index: 1;
   }
+ 
